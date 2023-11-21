@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Atomicaboy';
+    src: local('Atomicaboy Regular'), local('Atomicaboy-Regular'),
+        url('Atomicaboy-Regular.woff2') format('woff2'),
+        url('Atomicaboy-Regular.woff') format('woff'),
+        url('Atomicaboy-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
